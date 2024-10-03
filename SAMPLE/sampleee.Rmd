@@ -1,0 +1,12 @@
+---
+title: "sample"
+author: "trexan"
+date: "2024-10-03"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# TREXAN GWAPA GWAPA
